@@ -1,5 +1,5 @@
 
-![Screenshot (5)](https://github.com/krishnanya/Spotify-Clone/assets/50879117/de823e0b-cac0-4d1a-b6e0-28ebe28616a6)
+![Screenshot (6)](https://github.com/krishnanya/Spotify-Clone/assets/50879117/caa030d9-941b-44e9-937e-33dbb49f86a2)
 
 # Spotify Clone
 
