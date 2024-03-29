@@ -3,14 +3,13 @@
 
 # Spotify Clone
 
-This project is a Spotify homepage clone with some modifications, replicating the look and feel of a basic music player using HTML, CSS, and JavaScript. The primary focus of this project is to demonstrate the functionality of a web-based music player, designed to provide users with a seamless music listening experience.
+This project is a responsive Spotify homepage clone with some modifications, replicating the look and feel of a basic music player using HTML, CSS, and JavaScript. The primary focus of this project is to demonstrate the functionality of a web-based music player, designed to provide users with a seamless music listening experience.
 
 ## Features
 
 * **Playlist Management** : Displays a list of songs and allows users to play, pause, and navigate through the songs.
 
 * **Albums Display** : Fetches a list of albums and displays the album covers, titles, and descriptions.
-
 
 * **Interactive User Interface** : Users can interact with various elements, such as volume controls, seek bar, play/pause, and previous/next track buttons.
 
@@ -28,3 +27,12 @@ This project is built with the following technologies:
 ## Acknowledgments
 
 Thanks to Spotify for the original inspiration and design concept.
+
+## Demo
+
+
+
+https://github.com/krishnanya/Spotify-Clone/assets/50879117/7b6c7c38-1b13-49a6-801b-ca13b0b9c196
+
+
+
