@@ -25,6 +25,6 @@ This project is built with the following technologies:
 
 * **JavaScript** : Implemented to provide interactivity and functionality to the music player.
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to Spotify for the original inspiration and design concept.
